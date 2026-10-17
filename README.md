@@ -11,7 +11,7 @@
 
 ### **Bharat Spatial Engine — National-Scale Geospatial Hierarchy & Proximity Query Engine**
 
-[![GitHub Stars](https://badgen.net/github/stars/ronitgupta138/bharat-spatial-engine?icon=github&color=0891b2)](https://github.com/ronitgupta138/bharat-spatial-engine/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ronitgupta138/Bharat-Spatial-Engine?style=flat-square&logo=github&color=0891b2)](https://github.com/ronitgupta138/Bharat-Spatial-Engine/stargazers)
 [![Java](https://img.shields.io/badge/Java-21%20LTS-0891b2?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-10b981?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Virtual Threads](https://img.shields.io/badge/Loom-Virtual%20Threads-0891b2?style=flat-square&logo=java&logoColor=white)](https://openjdk.org/projects/loom/)
